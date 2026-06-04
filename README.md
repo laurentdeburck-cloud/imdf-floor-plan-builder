@@ -1,4 +1,4 @@
-# IMDF Floor Plan Builder
+ # IMDF Floor Plan Builder
 
 A free, open-source drag-and-drop floor plan builder that generates [IMDF](https://register.apple.com/resources/imdf/) ZIP packages for **Microsoft Places** — no expensive third-party tools needed.
 
